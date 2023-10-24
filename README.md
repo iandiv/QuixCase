@@ -8,6 +8,13 @@ QuixCase is your one-stop solution for seamless text case conversions. Easily sw
 
 ![explorer_v6I7ETpxbB](https://github.com/iandiv/QuixCase/assets/28383248/57c8d268-3c42-4537-90d5-57ca5009843e)
 
+# Features
+- Sentence Case
+- UPPERCASE
+- lowercase
+- Capital Each Word 
+- tOGGLE cASE
+
 ## Download
  | Release|
  | ----------- |
