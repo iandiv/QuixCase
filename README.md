@@ -12,7 +12,7 @@ QuixCase is a versatile text case conversion program designed to simplify and ex
 ## Download
  | Release|
  | ----------- |
- | [QuixCase v1.0.0](https://github.com/iandiv/QuixCase/releases) |
+ | [Download QuixCase](https://github.com/iandiv/QuixCase/releases) |
 
 
 
