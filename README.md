@@ -2,8 +2,7 @@
 
 ![QuixCase1](https://github.com/iandiv/QuixCase/assets/28383248/75f1fed6-f333-410c-a527-433f9d29e5e7)
 
-QuixCase is a versatile text case conversion program designed to simplify and expedite the process of changing text case within various applications. 
-
+QuixCase is your one-stop solution for seamless text case conversions. Easily switch between Sentence Case, UPPERCASE, lowercase, Capital Each Word, and even tOGGLE cASE with this versatile program.
 
 # Overview
 
